@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Välkommen till miniräknaren!");
+﻿Console.Title = "Miniräknaren";
+Console.WriteLine("Välkommen till miniräknaren!");
 Console.WriteLine("Tryck på valfri tangent.");
 Console.ReadKey();
 bool körs = true;
